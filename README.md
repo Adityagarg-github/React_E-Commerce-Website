@@ -15,9 +15,7 @@ A Ecommerce Website made with React.js Framework.
 
 
 ## Demo
-
-https://reacte-commercewebsite-hxfe2itop-aditya-gargs-projects-110bbbce.vercel.app/
-
+https://react-e-commerce-website-new.vercel.app/
 
 ## Run Locally
 
